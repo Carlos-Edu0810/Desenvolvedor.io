@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S/P7L3QCK6o=",
+  "dgSpecHash": "q8wOS4l/nX8=",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Desenvolvedor.io\\Curso\\CursoEFCore.csproj",
+  "projectFilePath": "C:\\Workspace\\Desenvolvedor.io\\curso\\CursoEFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ramos\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

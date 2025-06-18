@@ -56,3 +56,4 @@ C:\Workspace\Desenvolvedor.io\Curso\obj\Debug\net6.0\CursoEFCore.csproj.Assembly
 C:\Workspace\Desenvolvedor.io\Curso\obj\Debug\net6.0\CursoEFC.411F117E.Up2Date
 C:\Workspace\Desenvolvedor.io\Curso\bin\Debug\net6.0\Humanizer.dll
 C:\Workspace\Desenvolvedor.io\Curso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\Desenvolvedor.io\curso\obj\Debug\net6.0\CursoEFCore.sourcelink.json
